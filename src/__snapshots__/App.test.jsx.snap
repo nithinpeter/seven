@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `"<div class=\\"sc-bdVaJa bwOeS\\" data-reactroot=\\"\\"><div class=\\"sc-bwzfXH fllVrW\\"><img src=\\"logo.png\\" alt=\\"seven logo\\"/><h1>Home and Away</h1></div></div>"`;
